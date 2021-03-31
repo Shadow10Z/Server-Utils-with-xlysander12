@@ -16,12 +16,12 @@ We both have the same authority, working as a team and help each other out.
 # Commands
 --> Admin commands (add a suggestion if you want more):
 
-announcements [yes / no]:
-Enables or disables the global announcements feature in your server.
-autorole:
-Enables or disables the automatic role feature.
-ban [member] [reason]:
-Bans the mentioned member. This ban is registered in the logs channel and a pm is sent to the target by the bot informing that was banned.
+- announcements [yes / no]:
+- Enables or disables the global announcements feature in your server.
+- autorole:
+- Enables or disables the automatic role feature.
+- ban [member] [reason]:
+- Bans the mentioned member. This ban is registered in the logs channel and a pm is sent to the target by the bot informing that was banned.
 changeadminrole [role]:
 Changes the role that can execute admin commands.
 changelogschannel [channel]:
